@@ -81,5 +81,5 @@ Checked the general distribution of the blood groups worldwide.
 
 
 
-# Contributons
+# Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
