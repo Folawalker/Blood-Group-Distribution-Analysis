@@ -40,18 +40,24 @@ The dataset had been cleaned from excel before importing to python
 
 # Exploratory Data Analysis
 ## 1. Overview of the Data
-### 1. Descriptive Statistics: Used the `.describe()` function to check the basic statistical distribution of the dataset(mean, median, mode, max and min values, etc..)
+### 1. Descriptive Statistics:
+Used the `.describe()` function to check the basic statistical distribution of the dataset(mean, median, mode, max and min values, etc..)
 
-### 2. Data Verification: Checked if the changes I made during the cleaning process from Excel took effect(TRIM, data type, etc..) 
+### 2. Data Verification:
+Checked if the changes I made during the cleaning process from Excel took effect(TRIM, data type, etc..) 
 
-### 3. Checking for Duplicates: I checked for the presence of duplicates, or rather, the lack thereof.
+### 3. Checking for Duplicates:
+I checked for the presence of duplicates, or rather, the lack thereof.
 
 ## 2. Descriptive Analysis
-### 1. Distribution Across Countries: Checked for the distribution of each blood group in various countries and filtered for the top 10 and bottom 10 countries.
+### 1. Distribution Across Countries:
+Checked for the distribution of each blood group in various countries and filtered for the top 10 and bottom 10 countries.
 
-### 2. Distribution Across Continents: Checked for the distribution of the blood groups according to continents.
+### 2. Distribution Across Continents:
+Checked for the distribution of the blood groups according to continents.
 
-### 3. General distribution: Checked the general distribution of the blood groups worldwide.
+### 3. General distribution:
+Checked the general distribution of the blood groups worldwide.
 
 # Insights
 - The O+ blood group was observed to be globally dominant, appearing in 37.32% of the population.
