@@ -18,7 +18,7 @@ This is an analysis I carried out to explore the distribution of blood groups ac
 - Contributions
 
 # Project Overview
-The main purpose of this analysis is to help determine the most effective advertisement channels after the completion of a campaign. This is supposed to help make more effective targeted ads next time.
+The main aim of this analysis is to explore the distribution of blood groups across the world, variations within continents and regions. And also to explore whether geographic blood type data can support smarter, data-driven decisions in healthcare logistics.
 
 # Dataset
 - `Country`: Country in view
